@@ -1,5 +1,5 @@
 # SC55 to Soundfont Converter
-Written by Kitrinx and NewRisingSun. *** Updated by DjTony
+Written by Kitrinx and NewRisingSun. ```*** Updated by DjTony```
 
 
 # Requirements
@@ -22,14 +22,16 @@ R15209359_(samples1).BIN
 R15279813_(samples2).BIN
 ```
 
+```
 *** ADDED ROLAND SCC1-SCC1A roms support
 SCC1A_R00128567_GS4-PRM_v4_(program).BIN
 R15279806 GS.A_(samples).BIN
 R15279807 GS.B_(samples).BIN
 R15279808 GS.C_(samples).BIN
+```
 
 
-To use the SCB-55 ROMs, uncomment MKII at the top. *** UPDATE - Now you can select rom version by a simple menu.
+To use the SCB-55 ROMs, uncomment MKII at the top. ```*** UPDATE - Now you can select wich rom version by a simple menu.```
 
 
 # Building
